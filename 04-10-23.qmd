@@ -1,0 +1,9 @@
+---
+title: "A neat proof"
+---
+
+I encountered this problem in the first sheet of a 'Numerical Linear Algebra' module.
+
+Statement: Let $U$ be an $n$ by $n$ upper triangular matrix which is zero along the diagonal, show $U^n=0$. In other words show that such a $U$ is nilpotent.
+
+The standard solution is to consider how the matrix $U$ acts on each of the standard basis vectors- the image of $U^k$ is the span of the remaining $n-k$ vectors.

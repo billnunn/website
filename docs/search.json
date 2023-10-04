@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "04-10-23.html",
+    "href": "04-10-23.html",
+    "title": "A neat proof",
+    "section": "",
+    "text": "I encountered this problem in the first sheet of a ‘Numerical Linear Algebra’ module.\nStatement: Let \\(U\\) be an \\(n\\) by \\(n\\) upper triangular matrix which is zero along the diagonal, show \\(U^n=0\\). In other words show that such a \\(U\\) is nilpotent.\nThe standard solution is to consider how the matrix \\(U\\) acts on each of the standard basis vectors- the image of \\(U^k\\) is the span of the remaining \\(n-k\\) vectors."
+  },
+  {
+    "objectID": "maths.html",
+    "href": "maths.html",
+    "title": "Maths",
+    "section": "",
+    "text": "This page contains four distinct sections:\n\nDigests- Succinct written pieces explaining particularly neat ideas I’ve learnt about.\nProblems- Explanations of any breifly stated problem I’m currently stumped by. Problems which get resolved may be turned into digests.\nTalks- Slides or posters to presentations I’ve given.\nPreprints/Publications- Self explanatory.\n\nEach section is internally ordered by date, with the most recently written documents highest.\n\nDigests\n\n\nProblems\n\n\nTalks\n\n\nPreprints/Publications"
+  },
+  {
+    "objectID": "sls.html",
+    "href": "sls.html",
+    "title": "SLS Schedule",
+    "section": "",
+    "text": "This page details the 2023 Student Led Symposium (SLS) schedule, to the extent it is currently known. Scroll down and you may see yourself!\n\n\n\n\n\n\n\n\n\n\nDate\nTime\nLocation\nSpeaker(s)\nTopic(s)\n\n\n\n\n03/10/23\n1415\n4E 3.19\nDr Phil Trinh\nMatt Pawely\nKey dates. Doing a PhD- what to expect, and what to be aware of.\n\n\n05/10/23\n1315\n4E 3.19\nDr Theresa Smith\nIntroduction to interdisciplinary research projects (IRPs)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home Page",
+    "section": "",
+    "text": "Welcome to my website!\nAbout me: I’m a first year maths PhD at the University of Bath- a member of the 10th SAMBa cohort.\nFor those that might not know SAMBa = Statistical Applied Mathematics at Bath."
+  }
+]
