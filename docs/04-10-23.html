@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Bill Nunn - A neat proof</title>
+<title>Bill Nunn - An alternative proof</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">A neat proof</h1>
+<h1 class="title">An alternative proof</h1>
 </div>
 
 
@@ -129,9 +129,17 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>I encountered this problem in the first sheet of a ‘Numerical Linear Algebra’ module.</p>
-<p>Statement: Let <span class="math inline">\(U\)</span> be an <span class="math inline">\(n\)</span> by <span class="math inline">\(n\)</span> upper triangular matrix which is zero along the diagonal, show <span class="math inline">\(U^n=0\)</span>. In other words show that such a <span class="math inline">\(U\)</span> is nilpotent.</p>
-<p>The standard solution is to consider how the matrix <span class="math inline">\(U\)</span> acts on each of the standard basis vectors- the image of <span class="math inline">\(U^k\)</span> is the span of the remaining <span class="math inline">\(n-k\)</span> vectors.</p>
+<p>I encountered this exercise on the first sheet of a ‘Numerical Linear Algebra’ module.</p>
+<p><strong>Problem Statement:</strong> Let <span class="math inline">\(U\)</span> be an <span class="math inline">\(n\)</span> by <span class="math inline">\(n\)</span> upper triangular matrix which is zero along the diagonal, show <span class="math inline">\(U^n=0\)</span>. In other words, show that such a <span class="math inline">\(U\)</span> is nilpotent.</p>
+<p><strong>Thoughts:</strong> The standard solution is to consider how the matrix <span class="math inline">\(U\)</span> acts on each of the standard basis vectors: the image of <span class="math inline">\(U^k\)</span> is the span of the remaining <span class="math inline">\(n-k\)</span> vectors.</p>
+<p>An alternative way to approach the problem (and the approach I thought of before the standard solution) is to view <span class="math inline">\(U\)</span> as an adjacency matrix of a weighted digraph.</p>
+<p>Let’s restrict our view to a special matrix <span class="math inline">\(S\)</span> which has one in all it’s entries above the diagonal. Consider a graph <span class="math inline">\(G\)</span> of <span class="math inline">\(n\)</span> nodes labelled <span class="math inline">\(1\)</span> to <span class="math inline">\(n\)</span>, and let <span class="math inline">\(S\)</span> be the adjacency matrix. This is a complete digraph that has each directed from the node with the smaller label to the node with the larger label.</p>
+<p>Now, the <span class="math inline">\((i,j)\)</span>th entry of matrix <span class="math inline">\(S^k\)</span> is the number of directed paths of length <span class="math inline">\(k\)</span> from node <span class="math inline">\(i\)</span> to node <span class="math inline">\(j\)</span>. The longest directed path in graph <span class="math inline">\(G\)</span> is the the path <span class="math inline">\(1,2,3,…,n\)</span> but this only has length <span class="math inline">\(n-1\)</span>, and we conclude that <span class="math inline">\(S^n=0\)</span>.</p>
+<p>The proof adapts fairly easily to matrix <span class="math inline">\(U\)</span>, but is a bit messier. We start with a new notation: for directed path <span class="math inline">\(P\)</span> we let <span class="math inline">\(E_m(P)\)</span> denote the weight of the <span class="math inline">\(m\)</span>th directed edge. The way we can adapt the proof is to observe that the <span class="math inline">\((i,j)\)</span>th entry of matrix of <span class="math inline">\(U^k\)</span> is given by:</p>
+<p><span class="math display">\[
+\sum_{P}\prod_{m=1}^{k}E_m(P)
+\]</span></p>
+<p>Where we are summing over the directed paths <span class="math inline">\(P\)</span> of length <span class="math inline">\(k\)</span> from <span class="math inline">\(i\)</span> to <span class="math inline">\(j\)</span>.</p>
 
 
 

@@ -2,16 +2,16 @@
   {
     "objectID": "04-10-23.html",
     "href": "04-10-23.html",
-    "title": "A neat proof",
+    "title": "An alternative proof",
     "section": "",
-    "text": "I encountered this problem in the first sheet of a ‘Numerical Linear Algebra’ module.\nStatement: Let \\(U\\) be an \\(n\\) by \\(n\\) upper triangular matrix which is zero along the diagonal, show \\(U^n=0\\). In other words show that such a \\(U\\) is nilpotent.\nThe standard solution is to consider how the matrix \\(U\\) acts on each of the standard basis vectors- the image of \\(U^k\\) is the span of the remaining \\(n-k\\) vectors."
+    "text": "I encountered this exercise on the first sheet of a ‘Numerical Linear Algebra’ module.\nProblem Statement: Let \\(U\\) be an \\(n\\) by \\(n\\) upper triangular matrix which is zero along the diagonal, show \\(U^n=0\\). In other words, show that such a \\(U\\) is nilpotent.\nThoughts: The standard solution is to consider how the matrix \\(U\\) acts on each of the standard basis vectors: the image of \\(U^k\\) is the span of the remaining \\(n-k\\) vectors.\nAn alternative way to approach the problem (and the approach I thought of before the standard solution) is to view \\(U\\) as an adjacency matrix of a weighted digraph.\nLet’s restrict our view to a special matrix \\(S\\) which has one in all it’s entries above the diagonal. Consider a graph \\(G\\) of \\(n\\) nodes labelled \\(1\\) to \\(n\\), and let \\(S\\) be the adjacency matrix. This is a complete digraph that has each directed from the node with the smaller label to the node with the larger label.\nNow, the \\((i,j)\\)th entry of matrix \\(S^k\\) is the number of directed paths of length \\(k\\) from node \\(i\\) to node \\(j\\). The longest directed path in graph \\(G\\) is the the path \\(1,2,3,…,n\\) but this only has length \\(n-1\\), and we conclude that \\(S^n=0\\).\nThe proof adapts fairly easily to matrix \\(U\\), but is a bit messier. We start with a new notation: for directed path \\(P\\) we let \\(E_m(P)\\) denote the weight of the \\(m\\)th directed edge. The way we can adapt the proof is to observe that the \\((i,j)\\)th entry of matrix of \\(U^k\\) is given by:\n\\[\n\\sum_{P}\\prod_{m=1}^{k}E_m(P)\n\\]\nWhere we are summing over the directed paths \\(P\\) of length \\(k\\) from \\(i\\) to \\(j\\)."
   },
   {
     "objectID": "maths.html",
     "href": "maths.html",
     "title": "Maths",
     "section": "",
-    "text": "This page contains four distinct sections:\n\nDigests- Succinct written pieces explaining particularly neat ideas I’ve learnt about.\nProblems- Explanations of any breifly stated problem I’m currently stumped by. Problems which get resolved may be turned into digests.\nTalks- Slides or posters to presentations I’ve given.\nPreprints/Publications- Self explanatory.\n\nEach section is internally ordered by date, with the most recently written documents highest.\n\nDigests\n\n\nProblems\n\n\nTalks\n\n\nPreprints/Publications"
+    "text": "This page contains four distinct sections:\n\nDigests- Succinct written pieces explaining particularly neat ideas I’ve learnt about.\nProblems- Explanations of any breifly stated problem I’m currently stumped by. Problems which get resolved may be turned into digests.\nTalks- Slides or posters to presentations I’ve given.\nPreprints/Publications- Self explanatory.\n\nEach section is internally ordered by date, with the most recently written documents highest.\n\nDigests\n04-10-23\n\n\nProblems\n\n\nTalks\n\n\nPreprints/Publications"
   },
   {
     "objectID": "sls.html",
