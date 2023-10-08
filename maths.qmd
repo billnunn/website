@@ -6,7 +6,7 @@ This page contains four distinct sections:
 
 -   **Digests**- Succinct written pieces explaining particularly neat ideas I've learnt about.
 
--   **Problems**- Explanations of any breifly stated problem I'm currently stumped by. Problems which get resolved may be turned into digests.
+-   **Problems**- Explanations of any briefly stated problem I'm currently stumped by. Problems which get resolved may be turned into digests.
 
 -   **Talks**- Slides or posters to presentations I've given.
 
