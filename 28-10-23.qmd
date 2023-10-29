@@ -1,0 +1,27 @@
+---
+title: "X-ray Crystallography"
+---
+
+### Introduction
+
+Most people interested in science have heard of x-ray crystallography. Hearing of is one thing, but like me until very recently, one may only have a very limited idea of what a x-ray crystallography experiment involves. Here is what I might have told you before having a chance to inform myself: we take a crystalline sample (I suppose it must be possible to make some proteins into crystals then), shine a beam of x-rays through the sample at different angles, measure a set of diffraction patterns produced, and then use the diffraction patterns to deduce the 3D structure of the sample. At a surface level this is a correct enough overview, but the correctness obscures three horrors:
+
+1.  I didn't know what a diffraction pattern was.
+
+2.  As for the magic final step, I was at a total loss.
+
+3.  I wasn't certain what "crystalline" meant in these circumstances. Furthermore why does our sample need to be a crystalline?
+
+In this post I address these three horrors, mathematically of course.
+
+### Diffraction Patterns
+
+### Recovering the Structure
+
+### Why Crystals?
+
+### Final Comments
+
+I hope that these short sections have given you **some** idea of the maths x-ray crystallography involves.
+
+Interestingly, crystal samples aren't strictly necessary for diffraction based imaging techniques, ptychography being a key example. Background reading on ptychographic numerical methods made me realise I knew so little about x-ray crystallography!
