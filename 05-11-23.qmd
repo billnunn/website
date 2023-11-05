@@ -27,6 +27,6 @@ $$
 
 We conclude that $AX$ is distributed like $N(A\mu, A \Sigma A^T)$, as moment generating functions uniquely determine distributions.
 
-**Closing Thoughts**: Every modern mathematician uses results they don't know how to prove, and it would be extremist to recommend only using a result if you know at least a sketch of its proof. I do think we should all try to know when a result is only memorised however, and in the case of simple results like fact (1), remedy that state before embarrassment may ensue.
+**Closing Thoughts**: Every modern mathematician uses results they don't know how to prove, and it would be extremist to recommend only using a result if you know at least a sketch of its proof. I do think we should all try to know when a result we've used is only memorised however, and in the case of simple results like Lemma 1, remedy that state of affiars before embarrassment may ensue!
 
-The same sort of discussion doesn't just apply to mathematical results, but also to other things, like our opinions!
+The same sort of discussion doesn't just apply to mathematical results, but also to other things, like opinions.
