@@ -2,9 +2,9 @@
 title: "Memorisation vs Proof"
 ---
 
-Let random variable $X$ be distributed like a univariate Gaussian $N(\mu, \sigma^2)$. It is very well known that the random variable $aX$ is distributed like $N(a \mu, a^{2} \sigma^2)$. Let us call this statement Lemma 1. Lemma 1 is so useful that it's given without proof as part of the 'hypothesis testing' topic in A-level maths. Students who continue engaging with maths after A-level might find themselves making use Lemma 1, without ever having seen a proof. This certainly applied to me!
+Let random variable $X$ be distributed like a univariate Gaussian $N(\mu, \sigma^2)$. It is very well known that the random variable $aX$ is distributed like $N(a \mu, a^{2} \sigma^2)$. Let us call this statement Lemma 1. Lemma 1 is so useful that it's given without proof as part of the 'hypothesis testing' topic in A-level maths. Students who continue engaging with maths after A-level might find themselves making use Lemma 1, without ever having seen a proof. This certainly applied to me.
 
-Knowing a piece of mathematics without knowing (at least) a sketch of a proof can be dangerous, as I found out recently when requiring a *very* slight generalisation of Lemma 1. I needed to understand the following:
+Memorising a piece of mathematics without knowing (at least) a sketch of a proof can be dangerous, as I found out recently when requiring a *very* slight generalisation of Lemma 1. I needed to understand the following:
 
 **Question:** Let random vector $X$ be distributed like an $n$ dimensional multivariate Gaussian $N(\mu, \Sigma)$. Let $A$ be a real $m$ by $n$ matrix, how is the $m$ dimensional random vector $AX$ distributed?
 
@@ -27,6 +27,6 @@ $$
 
 We conclude that $AX$ is distributed like $N(A\mu, A \Sigma A^T)$, as moment generating functions uniquely determine distributions.
 
-**Closing Thoughts**: Every modern mathematician uses results they don't know how to prove, and it would be extremist to recommend only using a result if you know at least a sketch of its proof. I do think we should all try to know when a result we've used is only memorised however, and in the case of simple results like Lemma 1, remedy that state of affiars before embarrassment may ensue!
+**Closing Thoughts**: Every modern mathematician uses results they don't know how to prove, and it would be extremist to recommend only using a result if one can sketch a proof. I do think we should all try to be aware of when a result we've used is only memorised however, and in the case of simple results like Lemma 1, remedy that state of affiars before embarrassment might ensue.
 
 The same sort of discussion doesn't just apply to mathematical results, but also to other things, like opinions.
