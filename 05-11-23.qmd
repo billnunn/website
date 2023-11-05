@@ -1,0 +1,32 @@
+---
+title: "Memorisation vs Proof"
+---
+
+Let random variable $X$ be distributed like a univariate Gaussian $N(\mu, \sigma^2)$. It is very well known that the random variable $aX$ is distributed like $N(a \mu, a^{2} \sigma^2)$. Let us call this statement Lemma 1. Lemma 1 is so useful that it's given without proof as part of the 'hypothesis testing' topic in A-level maths. Students who continue engaging with maths after A-level might find themselves making use Lemma 1, without ever having seen a proof. This certainly applied to me!
+
+Knowing a piece of mathematics without knowing (at least) a sketch of a proof can be dangerous, as I found out recently when requiring a *very* slight generalisation of Lemma 1. I needed to understand the following:
+
+**Question:** Let random vector $X$ be distributed like an $n$ dimensional multivariate Gaussian $N(\mu, \Sigma)$. Let $A$ be a real $m$ by $n$ matrix, how is the $m$ dimensional random vector $AX$ distributed?
+
+Answering this question took me a little while, very embarrassing. Perhaps it would have been immediately obvious if I'd seen a proof of Lemma 1. Moreover, perhaps I would have saved some time and confusion if I'd known that Lemma 1 was only memorised, and I'd never proven it for myself. After some thought I arrived at Lemma 2:
+
+**Lemma:** Let random vector $X$ be distributed like an $n$ dimensional multivariate Gaussian $N(\mu, \Sigma)$. Let $A$ be a real $m$ by $n$ matrix. The $m$ dimensional random vector $AX$ distributed like $N(A \mu, A \Sigma A^T)$.
+
+**Proof (Sketch):** We can see this with multivariate moment generating functions. Recall that for a multivariate Gaussian distribution $N(\mu, \Sigma )$ the moment generating function is given by:
+
+$$
+MGF(X) = \mathbb{E}(exp({t^T X})) = exp(\mu^Tt + \frac{1}{2}t^T \Sigma t)
+$$
+
+Now, we can write $MGF(AX) = \mathbb{E}(exp({t^T AX})) = \mathbb{E}(exp({(A^Tt)^T X}))$. This tells us that the moment generating function of $AX$ can be written as:
+
+$$
+MGF(AX) = exp(\mu^TA^Tt + \frac{1}{2}(A^Tt)^T \Sigma A^Tt)
+= exp((A \mu)^Tt + \frac{1}{2} t^T A \Sigma A^Tt).
+$$
+
+We conclude that $AX$ is distributed like $N(A\mu, A \Sigma A^T)$, as moment generating functions uniquely determine distributions.
+
+**Closing Thoughts**: Every modern mathematician uses results they don't know how to prove, and it would be extremist to recommend only using a result if you know at least a sketch of its proof. I do think we should all try to know when a result is only memorised however, and in the case of simple results like fact (1), remedy that state before embarrassment may ensue.
+
+The same sort of discussion doesn't just apply to mathematical results, but also to other things, like our opinions!

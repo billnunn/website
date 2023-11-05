@@ -24,4 +24,4 @@ In this post I address these three horrors, mathematically of course.
 
 I hope that these short sections have given you **some** idea of the maths x-ray crystallography involves.
 
-Interestingly, crystal samples aren't strictly necessary for diffraction based imaging techniques, ptychography being a key example. Background reading on ptychographic numerical methods made me realise I knew so little about x-ray crystallography!
+Interestingly, crystal samples aren't strictly necessary for diffraction based imaging techniques, ptychography being a key example. Background reading on ptychographic numerical methods is what made me realise I knew so little about x-ray crystallography!
