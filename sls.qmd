@@ -85,7 +85,7 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 |            |                |       |          |                                                                 |                                                                                    |
 |            | Sam W          |       | 4W 4.5   | Older cohort students                                           | Choosing a supervisor (informal)                                                   |
 +------------+----------------+-------+----------+-----------------------------------------------------------------+------------------------------------------------------------------------------------+
-| Week 6     | Sangeetha      | ?     | ?        | Speaker list:                                                   | Mathematical perspectives on GenAI.                                                |
+| 13/03/2024 | Sangeetha      | ?     | ?        | Speaker list:                                                   | Mathematical perspectives on GenAI.                                                |
 |            |                |       |          |                                                                 |                                                                                    |
 |            | Amin           |       |          | 1.  Paddy O'Toole and Sam McCallum                              | 1.  Copilot demo. (20 mins)                                                        |
 |            |                |       |          | 2.  Henry Writer                                                | 2.  Prompt engineering- getting the most out of ChatGPT. (20 mins)                 |
@@ -95,23 +95,23 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 |            |                |       |          | 6.  Sangeetha Sampath                                           | 6.  Debate. (20 mins)                                                              |
 |            |                |       |          | 7.  Dr Ben Adams                                                | 7.  Closing thoughts. Q&A (20 mins)                                                |
 +------------+----------------+-------+----------+-----------------------------------------------------------------+------------------------------------------------------------------------------------+
-| Week 7     | Charlie        | ?     | ?        | Dr Emma Bowely? Dr Chris Budd?                                  | Mathematics and statistics in government? Some other industrial mathematics topic? |
+| 20/03/2024 | Charlie        | ?     | ?        | Dr Emma Bowely? Dr Chris Budd?                                  | Mathematics and statistics in government? Some other industrial mathematics topic? |
 |            |                |       |          |                                                                 |                                                                                    |
 |            | Chuanjie       |       |          |                                                                 |                                                                                    |
 +------------+----------------+-------+----------+-----------------------------------------------------------------+------------------------------------------------------------------------------------+
-| Week 8     | Charlie        | ?     | ?        | ?                                                               | ITT partner 1                                                                      |
+| 27/03/2024 | Charlie        | ?     | ?        | ?                                                               | ITT partner 1                                                                      |
 |            |                |       |          |                                                                 |                                                                                    |
 |            | Amin           |       |          |                                                                 |                                                                                    |
 +------------+----------------+-------+----------+-----------------------------------------------------------------+------------------------------------------------------------------------------------+
-| Week 9     | Sangeetha      | ?     | ?        | ?                                                               | ITT partner 2                                                                      |
+| 17/04/2024 | Sangeetha      | ?     | ?        | ?                                                               | ITT partner 2                                                                      |
 |            |                |       |          |                                                                 |                                                                                    |
 |            | Annie          |       |          |                                                                 |                                                                                    |
 +------------+----------------+-------+----------+-----------------------------------------------------------------+------------------------------------------------------------------------------------+
-| Week 10    | Sam W          | ?     | ?        | Find out from Exec team which students have done internships.   | Internships and other career opportunities.                                        |
+| 24/04/2024 | Sam W          | ?     | ?        | Find out from Exec team which students have done internships.   | Internships and other career opportunities.                                        |
 |            |                |       |          |                                                                 |                                                                                    |
 |            | Yasir          |       |          |                                                                 |                                                                                    |
 +------------+----------------+-------+----------+-----------------------------------------------------------------+------------------------------------------------------------------------------------+
-| Week 11    | Kamran         | ?     | ?        | ?                                                               | Undecided. Github and version control? Homepages? Posters?                         |
+| 01/05/2024 | Kamran         | ?     | ?        | ?                                                               | Undecided. Github and version control? Homepages? Posters?                         |
 |            |                |       |          |                                                                 |                                                                                    |
 |            | Sam M          |       |          |                                                                 |                                                                                    |
 +------------+----------------+-------+----------+-----------------------------------------------------------------+------------------------------------------------------------------------------------+
