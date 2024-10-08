@@ -4,6 +4,6 @@ title: "Home Page"
 
 Welcome to my website!
 
-**About me:** I'm a first year maths PhD at the University of Bath- a member of the 10th SAMBa cohort.
+**About me:** I'm a first year maths PhD at the University of Bath— a member of the 10th SAMBa cohort.
 
 For those that might not know [**SAMBa** = **S**tatistical **A**pplied **M**athematics at **Ba**th](https://samba.ac.uk).
