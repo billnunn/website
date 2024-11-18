@@ -7,15 +7,28 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - href: maths.qmd
-        text: Maths
+        text: "Maths"
       - href: sls.qmd
-        text: SLS
-
+        text: "SLS"
+      - href: conference.qmd
+        text: "Conference"
+        
+  sidebar:
+  - title: "Tutorials"
+    style: "docked"
+    background: light
+    contents:
+      - conference.qmd
+      - day-one.qmd
+      - day-two.qmd
+      - keynote.qmd
+      - student.qmd
+      
 format:
   html:
-    theme: cosmo
+    theme: united
     css: styles.css
     toc: true
 

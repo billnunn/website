@@ -4,11 +4,11 @@ title: "Maths"
 
 This page contains four distinct sections:
 
--   **Digests**- Succinct written pieces explaining particularly neat ideas I've learnt about.
+-   **Digests**- Succinct written pieces about maths and doing maths.
 
--   **Problems**- Explanations of any briefly stated problem I'm currently stumped by. Problems which get resolved may be turned into digests.
+-   **Problems**- Explanations of any briefly stated problem I'm stumped by. Problems which get resolved may be turned into digests.
 
--   **Talks**- Slides or posters to presentations I've given.
+-   **Talks**- Slides or posters for presentations I've given.
 
 -   **Preprints/Publications**- Self explanatory.
 
@@ -18,7 +18,7 @@ Each section is internally ordered by date, with the most recently written docum
 
 [Memorisation vs proof](https://billnunn.github.io/website/05-11-23.html)
 
-[X-ray crystallography](https://billnunn.github.io/website/28-10-23.html)
+[Countability](https://billnunn.github.io/website/28-10-23.html)
 
 [An alternative proof](https://billnunn.github.io/website/04-10-23.html)
 

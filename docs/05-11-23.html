@@ -129,6 +129,10 @@ window.Quarto = {
     <a class="nav-link" href="./sls.html"> 
 <span class="menu-text">SLS</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./conference.html"> 
+<span class="menu-text">Conference</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -165,11 +169,11 @@ window.Quarto = {
 </header>
 
 
-<p>Let random variable <span class="math inline">\(X\)</span> be distributed like a univariate Gaussian <span class="math inline">\(N(\mu, \sigma^2)\)</span>. It is very well known that the random variable <span class="math inline">\(aX\)</span> is distributed like <span class="math inline">\(N(a \mu, a^{2} \sigma^2)\)</span>. Let us call this statement Lemma 1. Lemma 1 is so useful that it’s given without proof as part of the ‘hypothesis testing’ topic in A-level maths. Students who continue engaging with maths after A-level might find themselves making use Lemma 1, without ever having seen a proof. This certainly applied to me.</p>
+<p>Let random variable <span class="math inline">\(X\)</span> be distributed like a univariate Gaussian <span class="math inline">\(N(\mu, \sigma^2)\)</span>. It is very well known that the random variable <span class="math inline">\(aX\)</span> is distributed like <span class="math inline">\(N(a \mu, a^{2} \sigma^2)\)</span>. Let us call this statement Lemma 1. Lemma 1 is so useful that it’s given (without proof) as early as the ‘hypothesis testing’ topic in A-level maths. Students who continue engaging with maths after A-level might find themselves making use Lemma 1, without ever having seen a proof. This certainly applied to me.</p>
 <p>Memorising a piece of mathematics without knowing (at least) a sketch of a proof can be dangerous, as I found out recently when requiring a <em>very</em> slight generalisation of Lemma 1. I needed to understand the following:</p>
 <p><strong>Question:</strong> Let random vector <span class="math inline">\(X\)</span> be distributed like an <span class="math inline">\(n\)</span> dimensional multivariate Gaussian <span class="math inline">\(N(\mu, \Sigma)\)</span>. Let <span class="math inline">\(A\)</span> be a real <span class="math inline">\(m\)</span> by <span class="math inline">\(n\)</span> matrix, how is the <span class="math inline">\(m\)</span> dimensional random vector <span class="math inline">\(AX\)</span> distributed?</p>
 <p>Answering this question took me a little while, very embarrassing. Perhaps it would have been immediately obvious if I’d seen a proof of Lemma 1. Moreover, perhaps I would have saved some time and confusion if I’d known that Lemma 1 was only memorised, and I’d never proven it for myself. After some thought I arrived at Lemma 2:</p>
-<p><strong>Lemma:</strong> Let random vector <span class="math inline">\(X\)</span> be distributed like an <span class="math inline">\(n\)</span> dimensional multivariate Gaussian <span class="math inline">\(N(\mu, \Sigma)\)</span>. Let <span class="math inline">\(A\)</span> be a real <span class="math inline">\(m\)</span> by <span class="math inline">\(n\)</span> matrix. The <span class="math inline">\(m\)</span> dimensional random vector <span class="math inline">\(AX\)</span> distributed like <span class="math inline">\(N(A \mu, A \Sigma A^T)\)</span>.</p>
+<p><strong>Lemma 2:</strong> Let random vector <span class="math inline">\(X\)</span> be distributed like an <span class="math inline">\(n\)</span> dimensional multivariate Gaussian <span class="math inline">\(N(\mu, \Sigma)\)</span>. Let <span class="math inline">\(A\)</span> be a real <span class="math inline">\(m\)</span> by <span class="math inline">\(n\)</span> matrix. The <span class="math inline">\(m\)</span> dimensional random vector <span class="math inline">\(AX\)</span> distributed like <span class="math inline">\(N(A \mu, A \Sigma A^T)\)</span>.</p>
 <p><strong>Proof (Sketch):</strong> We can see this with multivariate moment generating functions. Recall that for a multivariate Gaussian distribution <span class="math inline">\(N(\mu, \Sigma )\)</span> the moment generating function is given by:</p>
 <p><span class="math display">\[
 MGF(X) = \mathbb{E}(exp({t^T X})) = exp(\mu^Tt + \frac{1}{2}t^T \Sigma t)
@@ -180,7 +184,7 @@ MGF(AX) = exp(\mu^TA^Tt + \frac{1}{2}(A^Tt)^T \Sigma A^Tt)
 = exp((A \mu)^Tt + \frac{1}{2} t^T A \Sigma A^Tt).
 \]</span></p>
 <p>We conclude that <span class="math inline">\(AX\)</span> is distributed like <span class="math inline">\(N(A\mu, A \Sigma A^T)\)</span>, as moment generating functions uniquely determine distributions.</p>
-<p><strong>Closing Thoughts</strong>: Every modern mathematician uses results they don’t know how to prove, and it would be extremist to recommend only using a result if one can sketch a proof. I do think we should all try to be aware of when a result we’ve used is only memorised however, and in the case of simple results like Lemma 1, remedy that state of affiars before embarrassment might ensue.</p>
+<p><strong>Closing Thoughts</strong>: Every modern mathematician uses results they don’t know how to prove, and it would be extremist to recommend only using a result if one can sketch a proof. I do think we should all try to be aware of when a result we’ve used is only memorised however, and in the case of simple results like Lemma 1, remedy that state of affairs before embarrassment might ensue.</p>
 <p>The same sort of discussion doesn’t just apply to mathematical results, but also to other things, like opinions.</p>
 
 

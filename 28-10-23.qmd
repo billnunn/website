@@ -1,27 +1,21 @@
 ---
-title: "X-ray Crystallography"
+title: "Countability"
 ---
 
-### Introduction
+During a first year analysis tutorial I tasked the students with the following exercise:
 
-Most people interested in science have heard of x-ray crystallography. Hearing of is one thing, but like me until very recently, one may only have a very limited idea of what a x-ray crystallography experiment involves. Here is what I might have told you before having a chance to inform myself: we take a crystalline sample (I suppose it must be possible to make some proteins into crystals then), shine a beam of x-rays through the sample at different angles, measure a set of diffraction patterns produced, and then use the diffraction patterns to deduce the 3D structure of the sample. At a surface level this is a correct enough overview, but the correctness obscures three horrors:
+> Let $(a_n)_{n \in \mathbb{N}}$ be a sequence. We are given that the subsequence of terms $(a_{2k})_{k \in \mathbb{N}}$ with even index and the subsequence $(a_{2k-1})_{k \in \mathbb{N}}$ of terms with odd index converge to the same limit $L$. We wish to prove that full sequence $(a_n)_{n \in \mathbb{N}}$ converges to $L$.
 
-1.  I didn't know what a diffraction pattern was.
+This is an easy exercise. After fixing an arbitrary $\epsilon > 0$ we find two 'cut off' indices: the first for which all even terms beyond the cut off are within distance $\epsilon$ of $L$; and the second for which all odd terms beyond the cut off are within distance $\epsilon$ of $L$. To finish we choose the full sequence cut off to be the maximum of the even and odd cut offs.
 
-2.  As for the magic final step, I was at a total loss.
+It's important to note that the proof relies on the fact that the union of the index sequences $(2k)$ and $(2k - 1)$ contains all of $\mathbb{N}$. Moreover, we can easily extend the proof to obtain the following result:
 
-3.  I wasn't certain what "crystalline" meant in these circumstances. Furthermore why does our sample need to be a crystalline?
+> Let $(a_n)_{n \in \mathbb{N}}$ be a sequence. Suppose we are given that finite collection of subsequences which all converge to the same limit $L$, and whose union of index sequences contains all of $\mathbb{N}_{>k}$ for some finite $k$. We can conclude that $(a_n)_{n \in \mathbb{N}}$ converges to $L$.
 
-In this post I address these three horrors, mathematically of course.
+A student then asked if an analogous result holds for a countably infinite collection of subsequences. The method of proof used for the finite collection of subsequences breaks down for a countable collection as the maximum of a countable set (of cut offs in this case) is not necessarily finite. This should provoke us to look for a counterexample for which the cut off indices for each subsequence may exist arbitrarily far along the full sequence.
 
-### Diffraction Patterns
+We obtain a counterexample by considering the sequence $a_n:=1$ if $n$ is prime, $a_n := 0$ if $n$ is composite. The countable collection of subsequences we choose is $(a_{pk})_{k \in \mathbb{N}}$ for each and every prime number $p$. It is clear that the union of the corresponding index sequences is $\mathbb{N}_{>1}$. Furthermore, every subsequence in the collection is exactly equal to $(1,0,0,0,...)$ and thus converges to $0$. The full sequence is not convergent however since it is not Cauchy. In particular, $|a_{p+1} - a_p| = 1$ for all primes $p$ greater than $2$.
 
-### Recovering the Structure
+------------------------------------------------------------------------
 
-### Why Crystals?
-
-### Final Comments
-
-I hope that these short sections have given you **some** idea of the maths x-ray crystallography involves.
-
-Interestingly, crystal samples aren't strictly necessary for diffraction based imaging techniques, ptychography being a key example. Background reading on ptychographic numerical methods is what made me realise I knew so little about x-ray crystallography!
+I felt that the first year student's question had a sneaky enough answer to be worth frustrating some of the other applied maths PhD students with. Quite surprisingly, a majority could not quickly discern if the countably infinite case was true or false. Try out this prank on some of your friends who have long since studied first year analysis!

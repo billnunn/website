@@ -23,7 +23,7 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
 | 26/10/23 | Sam M          | 1315         | 4E 3.19  | Henry Lockyer    | All things LaTeX.                                                          |
 |          |                |              |          |                  |                                                                            |
-|          | Amin           |              |          | Phil Trinh       | How to use your training support fund.                                     |
+|          | Amin           |              |          | Phil Trinh       | Using your training support fund.                                          |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
 | 02/11/23 | Charlie        | 1315         | 4E 3.19  | Euan Spence      | Producing mathematical writing that will be read, understood, and enjoyed. |
 |          |                |              |          |                  |                                                                            |
@@ -37,13 +37,13 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 |          |                |              |          |                  |                                                                            |
 |          |                |              |          | Henry Writer     |                                                                            |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
-| 16/11/23 | Kamran         | 1315         | 4E 3.19  | Timothy Peters   | Nimbus and getting the HPC working.                                        |
+| 16/11/23 | Kamran         | 1315         | 4E 3.19  | Timothy Peters   | Nimbus and getting HPC working.                                            |
 |          |                |              |          |                  |                                                                            |
 |          | Sangeetha      |              |          | Henry Lockyer    |                                                                            |
 |          |                |              |          |                  |                                                                            |
 |          |                |              |          | Phil Trinh       |                                                                            |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
-| 23/11/23 | Joanna         | 1315         | 4E 3.19  | Jenny Power      | What to do during an ITT.                                                  |
+| 23/11/23 | Joanna         | 1315         | 4E 3.19  | Jenny Power      | What to do during an Itegrative Think Tank (ITT).                          |
 |          |                |              |          |                  |                                                                            |
 |          | Miles          |              |          | Timothy Peters   |                                                                            |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
@@ -56,10 +56,6 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 |          | Yasir          |              |          |                  |                                                                            |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
 | 14/12/23 | N/A            | 1315         | 4W 1.2   | Theresa Smith    | IRP presentations.                                                         |
-+----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
-| Xmas     | Xmas           | Xmas         | Xmas     | Xmas             | Xmas                                                                       |
-+----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
-| ITT      | ITT            | ITT          | ITT      | ITT              | ITT                                                                        |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
 
 ### Semester 2
@@ -81,11 +77,11 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 |          |                |              |             |                                    |                                                                    |
 |          | Caroline       |              |             |                                    |                                                                    |
 +----------+----------------+--------------+-------------+------------------------------------+--------------------------------------------------------------------+
-| 06/03/24 | Yasir          | 1430         | 8W 2.28     | Christian Jones                    | Choosing a supervisor (formal)                                     |
+| 06/03/24 | Yasir          | 1430         | 8W 2.28     | Christian Jones                    | Choosing a supervisor (formal).                                    |
 |          |                |              |             |                                    |                                                                    |
 |          | Sam W          |              | 8W 2.29     | Veronika Chronholm                 | Talk by IRP mentor.                                                |
 |          |                |              |             |                                    |                                                                    |
-|          |                |              | 4W 4.5      | Older cohort students              | Choosing a supervisor (informal)                                   |
+|          |                |              | 4W 4.5      | Older cohort students              | Choosing a supervisor (informal).                                  |
 +----------+----------------+--------------+-------------+------------------------------------+--------------------------------------------------------------------+
 | 13/03/24 | Sangeetha      | 1515         | The Wolfson | Speaker list:                      | Mathematical perspectives on GenAI.                                |
 |          |                |              |             |                                    |                                                                    |
@@ -101,11 +97,11 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 +----------+----------------+--------------+-------------+------------------------------------+--------------------------------------------------------------------+
 | 27/03/24 | Bill           | 1515         | 8W 2.29     | Cohort 10                          | ITT re-presentations.                                              |
 +----------+----------------+--------------+-------------+------------------------------------+--------------------------------------------------------------------+
-| 26/04/24 | Charlie        | 1315 Lunch   | The Wolfson | Aoibheann Brady                    | ITT preparation with BeZero Carbon                                 |
+| 26/04/24 | Charlie        | 1315 Lunch   | The Wolfson | Aoibheann Brady                    | ITT preparation with BeZero Carbon.                                |
 |          |                |              |             |                                    |                                                                    |
 |          | Amin           | 1345 Meeting |             |                                    |                                                                    |
 +----------+----------------+--------------+-------------+------------------------------------+--------------------------------------------------------------------+
-| 08/05/24 | Caroline       | 1515         | 8W 2.29     | Carmen van-de-l'Isle               | All things posters.                                                |
+| 08/05/24 | Caroline       | 1515         | 8W 2.29     | Carmen van-de-l'Isle               | A poster masterclass.                                              |
 +----------+----------------+--------------+-------------+------------------------------------+--------------------------------------------------------------------+
 | 22/05/24 | Charlie        | 1515         | The Wolfson | Joe Gillard                        | Mathematics in the defense sector: Defending against bio-weapons.  |
 |          |                |              |             |                                    |                                                                    |
