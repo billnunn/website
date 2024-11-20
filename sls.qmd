@@ -13,7 +13,7 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 |          |                |              |          |                  |                                                                            |
 |          |                |              |          | Matthew Pawely   | Time management.                                                           |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
-| 05/10/23 | N/A            | 1315         | 4E 3.19  | Theresa Smith    | Introduction to interdisciplinary research projects (IRPs).                |
+| 05/10/23 | N/A            | 1315         | 4E 3.19  | Theresa Smith    | Introduction to Interdisciplinary Research Projects (IRPs).                |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
 | 12/10/23 | N/A            | 1315         | 4E 3.19  | Cameron Smith    | How to give (and not give) a good talk.                                    |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
@@ -43,7 +43,7 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 |          |                |              |          |                  |                                                                            |
 |          |                |              |          | Phil Trinh       |                                                                            |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
-| 23/11/23 | Joanna         | 1315         | 4E 3.19  | Jenny Power      | What to do during an Itegrative Think Tank (ITT).                          |
+| 23/11/23 | Joanna         | 1315         | 4E 3.19  | Jenny Power      | What to do during an Integrative Think Tank (ITT).                         |
 |          |                |              |          |                  |                                                                            |
 |          | Miles          |              |          | Timothy Peters   |                                                                            |
 +----------+----------------+--------------+----------+------------------+----------------------------------------------------------------------------+
