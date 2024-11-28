@@ -4,13 +4,14 @@ title: "Day Two - July 11th"
 
 | Time | Event                  |
 |------|------------------------|
-| 0910 | Arrivals               |
-| 0940 | Keynote Talk: Area 4   |
-| 1040 | Break                  |
-| 1100 | Student Talks          |
-| 1140 | Keynote Talk: Outreach |
-| 1240 | Lunch                  |
-| 1400 | Student Talks          |
-| 1600 | Break                  |
-| 1620 | Lightning Talks        |
+| 0900 | Arrivals               |
+| 0930 | Keynote Talk: Area 4   |
+| 1020 | Break                  |
+| 1040 | Student Talks          |
+| 1200 | Lunch                  |
+| 1300 | Keynote Talk: Outreach |
+| 1350 | Break                  |
+| 1410 | Student Talks          |
+| 1550 | Break                  |
+| 1610 | Lightning Talks        |
 | 1700 | Closing Remarks        |
