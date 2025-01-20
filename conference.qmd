@@ -24,7 +24,7 @@ Lunch and afternoon drinks will be provided, with a conference dinner planned fo
 
 To learn more about the schedule and speakers, please navigate using the links on the left hand side of this webpage.
 
-![](images/samba 1.jpg){fig-align="center" width="427"}
+![](images/samba%201.jpg){fig-align="center" width="427"}
 
 ![](images/ukri_epsr_council-logo_horiz-rgb.png){fig-align="center" width="427"}
 
