@@ -4,15 +4,16 @@ title: "Day One - July 10th"
 
 | Time | Event                     |
 |------|---------------------------|
-| 0900 | Arrivals and Registration |
-| 0930 | Keynote Talk: Area 1      |
-| 1020 | Break                     |
-| 1040 | Student Talks             |
-| 1200 | Lunch                     |
-| 1300 | Keynote Talk: Area 2      |
-| 1350 | Break                     |
-| 1410 | Student Talks             |
-| 1530 | Break                     |
-| 1550 | Keynote Talk: Area 3      |
-| 1640 | Posters and Wine          |
-| 1830 | Walk down to Dorsia       |
+| 0930 | Arrivals and Registration |
+| 1000 | Keynote Talk              |
+| 1100 | Break                     |
+| 1120 | Student Talks             |
+| 1240 | Lunch + Sponsors          |
+| 1340 | Keynote Talk              |
+| 1440 | Break                     |
+| 1500 | Student Talks             |
+| 1620 | Break                     |
+| 1640 | Keynote Talk              |
+| 1740 | Student Posters and Wine  |
+| 1840 | Walk down to Restaurant   |
+| 1930 | Conference Meal           |

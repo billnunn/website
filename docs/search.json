@@ -4,7 +4,7 @@
     "href": "day-one.html",
     "title": "Day One - July 10th",
     "section": "",
-    "text": "Time\nEvent\n\n\n\n\n0900\nArrivals and Registration\n\n\n0930\nKeynote Talk: Area 1\n\n\n1020\nBreak\n\n\n1040\nStudent Talks\n\n\n1200\nLunch\n\n\n1300\nKeynote Talk: Area 2\n\n\n1350\nBreak\n\n\n1410\nStudent Talks\n\n\n1530\nBreak\n\n\n1550\nKeynote Talk: Area 3\n\n\n1640\nPosters and Wine\n\n\n1830\nWalk down to Dorsia",
+    "text": "Time\nEvent\n\n\n\n\n0930\nArrivals and Registration\n\n\n1000\nKeynote Talk\n\n\n1100\nBreak\n\n\n1120\nStudent Talks\n\n\n1240\nLunch + Sponsors\n\n\n1340\nKeynote Talk\n\n\n1440\nBreak\n\n\n1500\nStudent Talks\n\n\n1620\nBreak\n\n\n1640\nKeynote Talk\n\n\n1740\nStudent Posters and Wine\n\n\n1840\nWalk down to Restaurant\n\n\n1930\nConference Meal",
     "crumbs": [
       "Conference",
       "Day One - July 10th"
@@ -43,7 +43,7 @@
     "href": "day-two.html",
     "title": "Day Two - July 11th",
     "section": "",
-    "text": "Time\nEvent\n\n\n\n\n0900\nArrivals\n\n\n0930\nKeynote Talk: Area 4\n\n\n1020\nBreak\n\n\n1040\nStudent Talks\n\n\n1200\nLunch\n\n\n1300\nKeynote Talk: Outreach\n\n\n1350\nBreak\n\n\n1410\nStudent Talks\n\n\n1550\nBreak\n\n\n1610\nLightning Talks\n\n\n1700\nClosing Remarks",
+    "text": "Time\nEvent\n\n\n\n\n0930\nArrivals\n\n\n1000\nKeynote Talk\n\n\n1100\nBreak\n\n\n1120\nStudent Talks\n\n\n1240\nLunch\n\n\n1340\nKeynote Talk\n\n\n1440\nBreak\n\n\n1500\nStudent Talks\n\n\n1620\nBreak\n\n\n1640\nLightning Talks\n\n\n1720\nClosing Remarks\n\n\n1730\nWine",
     "crumbs": [
       "Conference",
       "Day Two - July 11th"
@@ -54,7 +54,51 @@
     "href": "conference.html",
     "title": "SAMBa Conference 2025",
     "section": "",
-    "text": "Generic Welcome (Thank Sponsors)\nRegistration Link",
+    "text": "Welcome to the 9th SAMBa conference, taking place on the 10th and 11th of July 2025.\nIf you plan on attending please register here (add registration link).",
+    "crumbs": [
+      "Conference",
+      "SAMBa Conference 2025"
+    ]
+  },
+  {
+    "objectID": "conference.html#welcome",
+    "href": "conference.html#welcome",
+    "title": "SAMBa Conference 2025",
+    "section": "",
+    "text": "Welcome to the 9th SAMBa conference, taking place on the 10th and 11th of July 2025.\nIf you plan on attending please register here (add registration link).",
+    "crumbs": [
+      "Conference",
+      "SAMBa Conference 2025"
+    ]
+  },
+  {
+    "objectID": "conference.html#information",
+    "href": "conference.html#information",
+    "title": "SAMBa Conference 2025",
+    "section": "Information",
+    "text": "Information\nSAMBa (Statistical Applied Mathematics at Bath) is the EPSRC-funded Centre for Doctoral Training (CDT). The SAMBa conference is held annually with the primary aim of showcasing research within the CDT remit. There will be a nice mix of speakers— research talks by current PhD students, as well as several keynote talks by external academics. A poster session and lighting talks from the newest PhD intake will also feature. Topics addressed will include statistics and ML; numerics and inverse problems; fluids and PDEs; applied probability and mathematical biology. Something to tickle the fancy of any applied mathematician!\nLunch and afternoon drinks will be provided, with a conference dinner planned for the evening of the 10th.\n\nThe conference will be hosted in the Wolfson Lecture Theatre in the Mathematical Sciences department of the University of Bath:\n4 West 1.7\nDept of Mathematical Sciences\nUniversity of Bath\nBath, BA2 7AY\nUnited Kingdom\n\nTo learn more about the schedule and speakers, please navigate using the links on the left hand side of this webpage.",
+    "crumbs": [
+      "Conference",
+      "SAMBa Conference 2025"
+    ]
+  },
+  {
+    "objectID": "conference.html#sponsors",
+    "href": "conference.html#sponsors",
+    "title": "SAMBa Conference 2025",
+    "section": "Sponsors",
+    "text": "Sponsors\n(Thank sponsors)",
+    "crumbs": [
+      "Conference",
+      "SAMBa Conference 2025"
+    ]
+  },
+  {
+    "objectID": "conference.html#organisers",
+    "href": "conference.html#organisers",
+    "title": "SAMBa Conference 2025",
+    "section": "Organisers",
+    "text": "Organisers\n(Head shot of each organiser and their email address)",
     "crumbs": [
       "Conference",
       "SAMBa Conference 2025"

@@ -2,6 +2,38 @@
 title: "SAMBa Conference 2025"
 ---
 
-Generic Welcome (Thank Sponsors)
+## Welcome
 
-Registration Link
+Welcome to the 9th SAMBa conference, taking place on the 10th and 11th of July 2025.
+
+If you plan on attending please register here (add registration link).
+
+## Information
+
+SAMBa ([**S**tatistical **A**pplied **M**athematics at **Ba**th](https://samba.ac.uk/)) is the EPSRC-funded Centre for Doctoral Training (CDT). The SAMBa conference is held annually with the primary aim of showcasing research within the CDT remit. There will be a nice mix of speakers— research talks by current PhD students, as well as several keynote talks by external academics. A poster session and lighting talks from the newest PhD intake will also feature. Topics addressed will include statistics and ML; numerics and inverse problems; fluids and PDEs; applied probability and mathematical biology. Something to tickle the fancy of any applied mathematician!
+
+Lunch and afternoon drinks will be provided, with a conference dinner planned for the evening of the 10th.
+
+> The conference will be hosted in the Wolfson Lecture Theatre in the Mathematical Sciences department of the University of Bath:
+>
+> *4 West 1.7\
+> Dept of Mathematical Sciences\
+> University of Bath\
+> Bath, BA2 7AY\
+> United Kingdom*
+
+To learn more about the schedule and speakers, please navigate using the links on the left hand side of this webpage.
+
+![](images/samba 1.jpg){fig-align="center" width="427"}
+
+![](images/ukri_epsr_council-logo_horiz-rgb.png){fig-align="center" width="427"}
+
+## Sponsors
+
+(Thank sponsors)
+
+## Organisers
+
+(Head shot of each organiser and their email address)
+
+## 
