@@ -10,7 +10,7 @@ If you plan on attending please register here (add registration link).
 
 ## Information
 
-SAMBa ([**S**tatistical **A**pplied **M**athematics at **Ba**th](https://samba.ac.uk/)) is an EPSRC-funded Centre for Doctoral Training (CDT). The SAMBa conference is held annually with the primary aim of showcasing research within the CDT remit. There will be a nice mix of speakers— research talks by current PhD students, as well as several keynote talks by external academics. A poster session and lighting talks from the newest PhD intake will also feature. Topics addressed will include statistics and ML; numerics and inverse problems; fluids and PDEs; applied probability and mathematical biology. Something to tickle the fancy of any applied mathematician!
+SAMBa ([**S**tatistical **A**pplied **M**athematics at **Ba**th](https://samba.ac.uk/)) is an EPSRC-funded Centre for Doctoral Training (CDT). The SAMBa conference is held annually with the primary aim of showcasing research within the CDT remit. There will be a nice mix of speakers— research talks by current PhD students, as well as several keynote talks by external academics. A poster session and lighting talks from the newest PhD intake will also feature. Topics addressed will include statistics and ML; numerics and inverse problems; fluids and PDEs; applied probability and mathematical biology. Something to float the boat of any applied mathematician!
 
 Lunch and afternoon drinks will be provided, with a conference dinner planned for the evening of the 10th.
 
