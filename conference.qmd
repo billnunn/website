@@ -34,6 +34,6 @@ To learn more about the schedule and speakers, please navigate using the links o
 
 ## Organisers
 
-(Head shot of each organiser and their email address)
+The conference is being organised by five students. If you have any questions, please feel free to contact any of us using the information below.
 
-## 
+![](images/mugshots.png){fig-align="center" width="800"}
