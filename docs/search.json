@@ -4,7 +4,7 @@
     "href": "day-one.html",
     "title": "Day One - July 10th",
     "section": "",
-    "text": "Time\nEvent\n\n\n\n\n0930\nArrivals and Registration\n\n\n1000\nKeynote Talk\n\n\n1100\nBreak\n\n\n1120\nStudent Talks\n\n\n1240\nLunch + Sponsors\n\n\n1340\nKeynote Talk\n\n\n1440\nBreak\n\n\n1500\nStudent Talks\n\n\n1620\nBreak\n\n\n1640\nKeynote Talk\n\n\n1740\nStudent Posters and Wine\n\n\n1840\nWalk down to Restaurant\n\n\n1930\nConference Meal",
+    "text": "Time\nEvent\n\n\n\n\n0930\nArrivals and Registration\n\n\n1000\nStudent Talks: Wilfred Armfield, Sebastian Quintanilla, Beth Stokes\n\n\n1120\nBreak\n\n\n1140\nKeynote Talk: Richard Morey\n\n\n1240\nLunch\n\n\n1340\nSponsor Presentation: IMI\n\n\n1400\nKeynote Talk: Sara Jabbari\n\n\n1500\nBreak\n\n\n1520\nStudent Talks: Robert Johnson, Veronika Chronholm, Elliot Butterworth\n\n\n1640\nBreak\n\n\n1700\nStudent Posters: Pablo Arratia, Peter Crew, Amin Sabir, Christian Jones\n\n\n1800\nFree Time (Finish Wine)\n\n\n1900\nConference Meal: The Botanist",
     "crumbs": [
       "Conference",
       "Day One - July 10th"
@@ -43,7 +43,7 @@
     "href": "day-two.html",
     "title": "Day Two - July 11th",
     "section": "",
-    "text": "Time\nEvent\n\n\n\n\n0930\nArrivals\n\n\n1000\nKeynote Talk\n\n\n1100\nBreak\n\n\n1120\nStudent Talks\n\n\n1240\nLunch\n\n\n1340\nKeynote Talk\n\n\n1440\nBreak\n\n\n1500\nStudent Talks\n\n\n1620\nBreak\n\n\n1640\nLightning Talks\n\n\n1720\nClosing Remarks\n\n\n1730\nWine",
+    "text": "Time\nEvent\n\n\n\n\n0930\nArrivals\n\n\n1000\nKeynote Talk: Audrey Repetti\n\n\n1100\nBreak\n\n\n1120\nStudent Talks: Chiara Boetti, Guannan Chen, Charlie Cameron\n\n\n1240\nLunch\n\n\n1340\nStudent Talks: Paddy O’Toole, Diana de Armas Bellon, Patrick Fahy\n\n\n1500\nBreak\n\n\n1520\nKeynote Talk: Waleed Ali\n\n\n1620\nLightning Talks: Fernando Perazzo, John Carlo Dimaculangan, James Treisman, Clara Hawkins, Harry Semple, Ben Dutton, Josh Payne, Peter Crew, Aengus Roberts\n\n\n1700\nSpeaker Awards and Closing Remarks",
     "crumbs": [
       "Conference",
       "Day Two - July 11th"
@@ -123,7 +123,7 @@
     "href": "keynote.html",
     "title": "Keynote Speakers",
     "section": "",
-    "text": "Name\nAbstract",
+    "text": "Name: Richard Morey\nTalk Title:\nAbstract:\n\nName: Sara Jabbari\nTalk Title: Novel antimicrobial treatments and the importance of the host response.\nAbstract: The global rise in antimicrobial resistance levels, coupled with the downturn in discovery of new antibiotics, has resulted in an urgent need for novel ways to tackle bacterial infections. Creative targets for such treatments include blocking resistance or virulence mechanisms employed by the bacteria. However, such approaches that do not directly kill the bacteria can rely heavily on an effective immune response. We demonstrate how mathematical modelling can be used to understand the consequences of this and to design effective treatment strategies.\n\nName: Audrey Repetti\nTalk Title:\nAbstract:\n\nName: Waleed Ali\nTalk Title:\nAbstract:",
     "crumbs": [
       "Conference",
       "Keynote Speakers"
@@ -134,7 +134,7 @@
     "href": "student.html",
     "title": "Student Speakers",
     "section": "",
-    "text": "Name\nAbstract",
+    "text": "Name: Wilfred Armfield\nTitle: Placeholder\nAbstract: Placeholder\n\nName: Sebastian Quintanilla\nTitle: Placeholder\nAbstract: Placeholder\n\nName: Beth Stokes\nTitle: Should I stay, or should I go: Sex ratio response drives a diverse range of (anti-)correlated intra-species behaviours\nAbstract: The decision of an individual or group to leave its current environment may be influenced by various factors. These include external or inter-species factors such as the presence of predators or food availability, and also intra-species dynamics like mate searching or the strength of social ties within a group. Understanding the consequences of these behaviours on the population level dynamics is non-trivial. In this work, we explore a stochastic model describing the movement of males and females of a species between localised patches, in which the movement rates are dependent on the sex ratio within the patch. By deriving a system of stochastic differential equations governing the fluctuations in these patches we can model a diverse range of intra-species behaviours driven solely by an individual’s response to local sex ratio. We subsequently uncover and explore how various individual behaviours can give rise to large scale (anti-)correlated movements between the sexes.\n\nName: Robert Johnson\nTitle: Placeholder\nAbstract: Placeholder\n\nName: Veronika Chronholm\nTitle: Placeholder\nAbstract: Placeholder\n\nName: Elliot Butterworth\nTitle: Placeholder\nAbstract: Placeholder\n\nName: Chiara Boetti\nTitle: Placeholder\nAbstract: Placeholder\n\nName: Guannan Chen\nTitle: Placeholder\nAbstract: Placeholder\n\nName: Charlie Cameron\nTitle: Placeholder\nAbstract: Placeholder\n\nName: Paddy O’Toole\nTitle: Placeholder\nAbstract: Placeholder\n\nName: Diana de Armas Bellon\nTitle: Rough Mount Fuji accessibility percolation\nAbstract: We consider a rooted tree where each vertex is labelled by an independent and identically distributed (i.i.d.) uniform(0,1) random variable, plus a parameter theta times its distance from the root. We study paths from the root to infinity along which the vertex labels are increasing. The existence of such increasing paths depends on both the structure of the tree and the value of theta. The goal is to determine the critical value of theta such that, above this value, increasing paths occur with positive probability, while below it, no such paths exist. Additionally, we extend this problem to consider the case of the integer lattice.\n\nName: Patrick Fahy\nTitle: Placeholder\nAbstract: Placeholder",
     "crumbs": [
       "Conference",
       "Student Speakers"

@@ -2,18 +2,18 @@
 title: "Day One - July 10th"
 ---
 
-| Time | Event                     |
-|------|---------------------------|
+| Time | Event |
+|------------------------------------|------------------------------------|
 | 0930 | Arrivals and Registration |
-| 1000 | Keynote Talk              |
-| 1100 | Break                     |
-| 1120 | Student Talks             |
-| 1240 | Lunch + Sponsors          |
-| 1340 | Keynote Talk              |
-| 1440 | Break                     |
-| 1500 | Student Talks             |
-| 1620 | Break                     |
-| 1640 | Keynote Talk              |
-| 1740 | Student Posters and Wine  |
-| 1840 | Walk down to Restaurant   |
-| 1930 | Conference Meal           |
+| 1000 | Student Talks: Wilfred Armfield, Sebastian Quintanilla, Beth Stokes |
+| 1120 | Break |
+| 1140 | Keynote Talk: Richard Morey |
+| 1240 | Lunch |
+| 1340 | Sponsor Presentation: IMI |
+| 1400 | Keynote Talk: Sara Jabbari |
+| 1500 | Break |
+| 1520 | Student Talks: Robert Johnson, Veronika Chronholm, Elliot Butterworth |
+| 1640 | Break |
+| 1700 | Student Posters: Pablo Arratia, Peter Crew, Amin Sabir, Christian Jones |
+| 1800 | Free Time (Finish Wine) |
+| 1900 | Conference Meal: The Botanist |

@@ -2,6 +2,32 @@
 title: "Keynote Speakers"
 ---
 
-Name
+**Name:** Richard Morey
 
-Abstract
+**Talk Title:**
+
+**Abstract:**
+
+------------------------------------------------------------------------
+
+**Name:** Sara Jabbari
+
+**Talk Title:** Novel antimicrobial treatments and the importance of the host response.
+
+**Abstract:** The global rise in antimicrobial resistance levels, coupled with the downturn in discovery of new antibiotics, has resulted in an urgent need for novel ways to tackle bacterial infections. Creative targets for such treatments include blocking resistance or virulence mechanisms employed by the bacteria. However, such approaches that do not directly kill the bacteria can rely heavily on an effective immune response. We demonstrate how mathematical modelling can be used to understand the consequences of this and to design effective treatment strategies.
+
+------------------------------------------------------------------------
+
+**Name:** Audrey Repetti
+
+**Talk Title:**
+
+**Abstract:**
+
+------------------------------------------------------------------------
+
+**Name:** Waleed Ali
+
+Talk Title:
+
+Abstract:
