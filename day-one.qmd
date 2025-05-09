@@ -3,7 +3,7 @@ title: "Day One - July 10th"
 ---
 
 | Time | Event |
-|------------------------------------|------------------------------------|
+|----|----|
 | 0930 | Arrivals and Registration |
 | 1000 | Student Talks: Wilfred Armfield, Sebastian Quintanilla, Beth Stokes |
 | 1120 | Break |
