@@ -68,9 +68,15 @@ title: "Student Speakers"
 
 **Name:** Charlie Cameron
 
-**Title:** Placeholder
+**Title:** Spatial regime conversion method
 
-**Abstract:** Placeholder
+**Abstract:** We present a novel hybrid modelling approach for simulating one-dimensional, one-species reaction-diffusion systems that balances stochastic accuracy with computational efficiency. Our model automatically adapts to local particle concentrations, applying the Stochastic Simulation Algorithm (SSA) in regions where stochastic effects are significant, and switching to partial differential equations (PDEs) where particle numbers are high. This dynamic regime conversion removes the need for a predefined interface, allowing the model to respond flexibly to evolving system states.
+
+To ensure consistency across regimes, we employ a moment-closure method that bridges the stochastic reaction network with its deterministic PDE counterpart. We demonstrate the model’s accuracy and efficiency on benchmark problems, including simple diffusion and the Fisher-KPP equation.
+
+This method offers a scalable framework for simulating reaction-diffusion systems, especially those where stochasticity plays a critical role in low-density regions but becomes computationally intensive at scale. 
+
+ 
 
 ------------------------------------------------------------------------
 
