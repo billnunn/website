@@ -20,9 +20,11 @@ title: "Keynote Speakers"
 
 **Name:** Audrey Repetti
 
-**Talk Title:**
+**Talk Title:** Proximal Neural Networks for Computational Imaging
 
-**Abstract:**
+**Abstract:** A common approach to solve inverse imaging problems relies on finding a maximum a posteriori (MAP) estimate of the original unknown image, by solving a minimization problem. In this context, iterative proximal algorithms are widely used, enabling to handle non-smooth functions and linear operators. These methods have the advantage of benefiting from strong theoretical guarantees, ensuring their asymptotic convergence to a solution to the problem of interest which is key for decision-making processes. Recently, these proximal algorithms have been paired with deep learning strategies, to further improve the estimate quality. Two main approaches have been investigated in the literature: Plug-and-play algorithms where some of the operators appearing in proximal algorithms are replaced by neural networks, and unfolded neural networks that are obtained by unrolling a proximal algorithm as for finding a MAP estimate, but over a fixed number of iterations, with learned linear operators and parameters.
+
+In this talk, we will explore these different methodological perspectives in computational imaging, and discuss their advantages and limitations.
 
 ------------------------------------------------------------------------
 

@@ -60,9 +60,9 @@ title: "Student Speakers"
 
 **Name:** Guannan Chen
 
-**Title:** Placeholder
+**Title:** Quantum algorithms for the exponential of Hamiltonian matrices​
 
-**Abstract:** Placeholder
+**Abstract:** Computing the time evolution of quantum systems, by solving the Schrödinger equation and approximating matrix exponentials, is a fundamental task in quantum computing and numerical analysis. In this talk, we discuss some techniques for Hamiltonian simulation on quantum computers, including rational approximations, variational methods, and exponential splittings, with a focus on enabling long time steps that allow practical implementation on near-term quantum devices.
 
 ------------------------------------------------------------------------
 
