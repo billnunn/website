@@ -2,15 +2,15 @@
 title: "Day Two - July 11th"
 ---
 
-| Time | Event |
-|----|----|
-| 0930 | Arrivals |
-| 1000 | Keynote Talk: Audrey Repetti |
-| 1100 | Break |
-| 1120 | Student Talks: Chiara Boetti, Guannan Chen, Charlie Cameron |
-| 1240 | Lunch |
+| Time | Event                                                             |
+|------|-------------------------------------------------------------------|
+| 0930 | Arrivals                                                          |
+| 1000 | Keynote Talk: Audrey Repetti                                      |
+| 1100 | Break                                                             |
+| 1120 | Student Talks: Chiara Boetti, Guannan Chen, Charlie Cameron       |
+| 1240 | Lunch                                                             |
 | 1340 | Student Talks: Paddy O'Toole, Diana de Armas Bellon, Patrick Fahy |
-| 1500 | Break |
-| 1520 | Keynote Talk: Waleed Ali |
-| 1620 | Lightning Talks: Fernando Perazzo, John Carlo Dimaculangan, James Treisman, Clara Hawkins, Harry Semple, Ben Dutton, Josh Payne, Peter Crew, Aengus Roberts |
-| 1700 | Speaker Awards and Closing Remarks |
+| 1500 | Break                                                             |
+| 1520 | Keynote Talk: Waleed Ali                                          |
+| 1620 | Lightning Talks: SAMBa Cohort 11                                  |
+| 1700 | Speaker Awards and Closing Remarks                                |
