@@ -54,9 +54,9 @@ In this talk, I will introduce basic concepts from population genetics, and pres
 
 **Name:** Chiara Boetti
 
-**Title:** Placeholder
+**Title:** Network Time Series Models for Volatility Forecasting
 
-**Abstract:** Placeholder
+**Abstract:** Accurate forecasting of volatility— the time-varying variability in a financial asset’s price— is essential for risk management and for designing optimal decision-making policies. The increasing availability of high-frequency data has exposed limitations in classical latent-variable models, which are unsuitable for handling data with long-range dependence. Although fractionally integrated models can accommodate this feature, they are computationally demanding. The heterogeneous autoregressive (HAR) model offers a more efficient alternative, combining simplicity with strong empirical performance, and has become a standard in the field.There is growing interest in multivariate extensions of the HAR model to effectively capture dependencies across different financial markets. In this talk, we focus on time series data defined over graphs and compare the forecasting performance of two recent network-based models: one built on fractional integration and the other on the HAR framework.
 
 ------------------------------------------------------------------------
 
