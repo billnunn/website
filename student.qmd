@@ -38,9 +38,11 @@ In this talk, I will introduce basic concepts from population genetics, and pres
 
 **Name:** Veronika Chronholm
 
-**Title:** Placeholder
+**Title:** Simplified proton transport models for treatment planning and uncertainty quantification
 
-**Abstract:** Placeholder
+**Abstract:** Proton Beam Therapy (PBT) is a type of radiotherapy used for cancer treatment. Due to the sharply peaked dose-depth curve characteristic of protons, and the fact that protons stop at a finite depth inside the tissue, PBT is especially useful when treating tumours situated close to vital organs, which need to be spared from radiation damage.
+
+In terms of both treatment planning and uncertainty quantification, a physically accurate model for proton transport that is also quick to evaluate is needed. This talk will cover some possible models for proton radiation, as well as their application to clinically relevant problems.
 
 ------------------------------------------------------------------------
 
