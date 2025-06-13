@@ -30,9 +30,9 @@ In this talk, I will introduce basic concepts from population genetics, and pres
 
 **Name:** Robert Johnson
 
-**Title:** Placeholder
+**Title:** A new algorithm for ptychography
 
-**Abstract:** Placeholder
+**Abstract:** Ptychography is an inverse problem that aims to recover the phase and amplitude of a sample under illumination from its complex diffraction patterns. Recovery algorithms use an iterative approach to recover the phase and amplitude by looking at the difference of the diffraction pattern of the true sample, to the diffraction pattern of the current best guess of the sample. In this talk a new algorithm for recovery using the L-BFGS optimization algorithm will be presented and compared to existing recovery algorithms, on synthetically generated data and on real samples.
 
 ------------------------------------------------------------------------
 
