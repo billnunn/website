@@ -4,9 +4,9 @@ title: "Student Speakers"
 
 **Name:** Wilfred Armfield
 
-**Title:** Placeholder
+**Title:** The Forward Loop-Erased Ant process and uniform spanning trees
 
-**Abstract:** Placeholder
+**Abstract:** The Ant process was first introduced by Kious, Mailler and Schapira in 2020 to model the collective learning behaviours of ant colonies. In the new Forward Loop-Erased (FLE) variant of the model we are able to draw upon the extensive literature of loop-erased random walks. In particular, this talk will highlight how the link with Uniform Spanning Trees and Wilson's algorithm allows us to prove geodesic results for the FLE Ants process in a more general setting than that of Kious, Mailler and Schapira.
 
 ------------------------------------------------------------------------
 
@@ -78,9 +78,7 @@ In terms of both treatment planning and uncertainty quantification, a physically
 
 To ensure consistency across regimes, we employ a moment-closure method that bridges the stochastic reaction network with its deterministic PDE counterpart. We demonstrate the model’s accuracy and efficiency on benchmark problems, including simple diffusion and the Fisher-KPP equation.
 
-This method offers a scalable framework for simulating reaction-diffusion systems, especially those where stochasticity plays a critical role in low-density regions but becomes computationally intensive at scale. 
-
- 
+This method offers a scalable framework for simulating reaction-diffusion systems, especially those where stochasticity plays a critical role in low-density regions but becomes computationally intensive at scale.
 
 ------------------------------------------------------------------------
 
